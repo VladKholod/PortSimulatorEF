@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{EA344392-7715-4B21-8145-8CBB2204661D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{5B587223-327E-4E6C-BE68-8E79291EA56F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAccessLayer", "{6099B8B1-9770-4687-868D-61B5CB9D533F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortSimulator.Application", "PortSimulator.Application\PortSimulator.Application.csproj", "{7FF18D95-775F-4F86-9F87-CD1EDEAE633A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortSimulator.Core", "PortSimulator.Core\PortSimulator.Core.csproj", "{F4B9C444-939B-4DF4-9ADD-A30CA578CFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortSimulator.DataAccessLayer", "PortSimulator.DataAccessLayer\PortSimulator.DataAccessLayer.csproj", "{241FAA91-3DE5-4645-A703-3ABF8C85D355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF18D95-775F-4F86-9F87-CD1EDEAE633A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF18D95-775F-4F86-9F87-CD1EDEAE633A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF18D95-775F-4F86-9F87-CD1EDEAE633A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF18D95-775F-4F86-9F87-CD1EDEAE633A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B9C444-939B-4DF4-9ADD-A30CA578CFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B9C444-939B-4DF4-9ADD-A30CA578CFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B9C444-939B-4DF4-9ADD-A30CA578CFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B9C444-939B-4DF4-9ADD-A30CA578CFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241FAA91-3DE5-4645-A703-3ABF8C85D355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241FAA91-3DE5-4645-A703-3ABF8C85D355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241FAA91-3DE5-4645-A703-3ABF8C85D355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241FAA91-3DE5-4645-A703-3ABF8C85D355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7FF18D95-775F-4F86-9F87-CD1EDEAE633A} = {EA344392-7715-4B21-8145-8CBB2204661D}
+		{F4B9C444-939B-4DF4-9ADD-A30CA578CFFF} = {5B587223-327E-4E6C-BE68-8E79291EA56F}
+		{241FAA91-3DE5-4645-A703-3ABF8C85D355} = {6099B8B1-9770-4687-868D-61B5CB9D533F}
+	EndGlobalSection
+EndGlobal

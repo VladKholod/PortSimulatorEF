@@ -1,0 +1,12 @@
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\PortSimulator.DataAccessLayer.dll.config
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\PortSimulator.DataAccessLayer.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\PortSimulator.DataAccessLayer.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\PortSimulator.Core.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\PortSimulator.Core.pdb
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\obj\Debug\PortSimulator.DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\obj\Debug\PortSimulator.DataAccessLayer.dll
+D:\Workspace\VisualStudio 2013\_NixSolutionsTasks\PortSimulator\PortSimulator.DataAccessLayer\obj\Debug\PortSimulator.DataAccessLayer.pdb
